@@ -26,7 +26,7 @@ We then operated under the assumption that _every line_ was another [binary] num
 
 Here's [the code we ended up with](get_flag.py):
 
-```
+``` python
 #!/usr/bin/env python
 
 from PIL import Image
