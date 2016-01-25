@@ -45,7 +45,7 @@ __Note that bolded items have a solution added; regular entries _do not_.__
 * Crypto-Numbero
 * Eighth Circle of Hell
 * Ethernet Patched Transmission
-* Bots are Awesome
+* [__Bots are Awesome!__](bots_are_awesome/)
 * [__Oops__](oops/)
 * I Have the Power
 
